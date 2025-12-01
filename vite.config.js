@@ -1,5 +1,6 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-  base: "/test-animejs/",
+    root: 'src',
+    base: "/test-animejs/",
 });
