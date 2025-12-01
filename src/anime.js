@@ -10,8 +10,7 @@ waapi.animate(chars, {
   alternate: true,
   ease: 'inOut(2)',
 });
-
-
+   
 // const [ $time, $count ] = utils.$('.value');
 
 // createTimer({
