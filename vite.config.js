@@ -6,8 +6,8 @@ import { ViteImageOptimizer } from "vite-plugin-image-optimizer";
 const FRONT_PATH = 'src';
 
 export default defineConfig({
-    root: 'src',
     base: "/test-animejs/",
+    root: 'src',
     build: {
         minify: true,
         cssMinify: true,
