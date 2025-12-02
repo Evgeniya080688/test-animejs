@@ -7,7 +7,7 @@ const FRONT_PATH = 'src';
 
 export default defineConfig({
     root: 'src',
-    base: "/",
+    base: "/test-animejs/",
     build: {
         minify: true,
         cssMinify: true,
